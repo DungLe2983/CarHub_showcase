@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## CarHub - ShowCase
+A website that you can find out all the latest vehicles, innovations, and trends in the Car industry.
 
-## Getting Started
+## Features
 
-First, run the development server:
+- User-Friendly Interface.
+- Diverse Range of Clothing Options.
+- Product Recommendations.
+- Regularly Updated Inventory.
+- Detailed Product Descriptions and Size Charts.
+- Add Products to the Shopping Cart
+- Proceed to Checkout.
+- Search Functionality.
+- Filtering and Sorting via Categories, Colors, Sizes.
+- Manage profile (included view Purchase History).
+- Send reports/feedback to admin.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Requirement
+- Runtime environment:
+    - Node.js 20.10.0+.
+    - Vercel for hosting.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Development environment:
+    - Node.js 20.10.0+.
+    - React.js 18.2.0+ for frontend development.
+    - Tailwind CSS for styling.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Installation Guide
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To install and run the project locally, follow these steps:
 
-## Learn More
+1. Clone this repo.
+2. Run `npm install` to install the dependencies.
+3. Run `npm run dev` to start the server.
 
-To learn more about Next.js, take a look at the following resources:
+## User Guide
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can simply click this [link](https://car-hub-showcase-vaqp.vercel.app/) to get started.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## User Interface
 
-## Deploy on Vercel
+![Home](./demo_ui/Home.png)
+![Product](./demo_ui/Product.png)
+![ProdutcDetail](./demo_ui/DetailProduct.png)
+![Cart](./demo_ui/Cart.png)
+![Checkout](./demo_ui/checkout.png)
+![Search](./demo_ui/SearchPage.png)
+![Profile](./demo_ui/Profile.png)
+![PurchaseHistory](./demo_ui/PurchaseHistory.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Authors
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Lê Quốc Dũng](https://github.com/DungLe2983)
