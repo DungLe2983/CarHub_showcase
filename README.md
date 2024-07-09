@@ -4,16 +4,10 @@ A website that you can find out all the latest vehicles, innovations, and trends
 ## Features
 
 - User-Friendly Interface.
-- Diverse Range of Clothing Options.
-- Product Recommendations.
-- Regularly Updated Inventory.
-- Detailed Product Descriptions and Size Charts.
-- Add Products to the Shopping Cart
-- Proceed to Checkout.
+- Diverse Range of Car Options.
 - Search Functionality.
-- Filtering and Sorting via Categories, Colors, Sizes.
-- Manage profile (included view Purchase History).
-- Send reports/feedback to admin.
+- Filtering and Sorting via Automaker, Fuels, Years.
+- View details
 
 ## Requirement
 - Runtime environment:
@@ -39,14 +33,11 @@ You can simply click this [link](https://car-hub-showcase-vaqp.vercel.app/) to g
 
 ## User Interface
 
-![Home](./demo_ui/Home.png)
-![Product](./demo_ui/Product.png)
-![ProdutcDetail](./demo_ui/DetailProduct.png)
-![Cart](./demo_ui/Cart.png)
-![Checkout](./demo_ui/checkout.png)
-![Search](./demo_ui/SearchPage.png)
-![Profile](./demo_ui/Profile.png)
-![PurchaseHistory](./demo_ui/PurchaseHistory.png)
+![Home](./demo_ui/Carhub.png)
+![Product](./demo_ui/Carhub2.png)
+![ProdutcDetail](./demo_ui/Carhub3.png)
+![Cart](./demo_ui/Carhub4.png)
+
 
 ## Authors
 
